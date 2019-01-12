@@ -18,6 +18,8 @@
 * 当然我也把这个做成了一个小程序，名字叫即刻识图，可以扫描来体验一下，接口可能随时不能用，如果后期不能使用，我也会抽时间来更新一下！
 
 
-* 扫码可以体验！
-![扫码体验]('./testimg/xcx.jpg')
+扫码可以体验！
+===
+
+![扫码体验](https://github.com/chenguanyou/BaiduSerchImgApi/blob/master/testimg/xcx.jpg?raw=true)
 
