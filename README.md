@@ -23,3 +23,5 @@
 
 ![扫码体验](https://github.com/chenguanyou/BaiduSerchImgApi/blob/master/testimg/xcx.jpg?raw=true)
 
+2019年3月15号：由于这个小程序使用的域名到期，暂时不能体验了，抱歉！
+
