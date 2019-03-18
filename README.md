@@ -25,3 +25,7 @@
 
 2019年3月15号：由于这个小程序使用的域名到期，暂时不能体验了，抱歉！
 
+可以自行下载小程序端源码体验！
+===
+https://github.com/chenguanyou/BaiduSerchImgWxMini
+
